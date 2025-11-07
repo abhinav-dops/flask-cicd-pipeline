@@ -3,7 +3,7 @@ This project demonstrates a simple Flask app with a complete CI/CD pipeline usin
 - **Docker** (for containerization)
 - **Docker Hub / AWS EC2** (for deployment)
 
-## Features 
+## Features
 - Automated build and test  
 - Docker image push to Docker Hub  
 - Optional deployment to EC2 or Render  
