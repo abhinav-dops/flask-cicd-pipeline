@@ -4,7 +4,7 @@ WORKDIR /app
 
 COPY requirements.txt .
 
-RUN pip intstall -requirements.txt
+RUN pip intstal -requirements.txt
 
 COPY . .
 
